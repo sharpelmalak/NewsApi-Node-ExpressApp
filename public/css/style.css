@@ -1,0 +1,29 @@
+
+#main-bg{
+    background-image: url(../images/pexels-mateusz-sałaciak-4275892.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    
+    
+}
+
+#fake-bg{
+    background-color: #00000096;
+}
+
+.bg-404{
+    background-image: url(../images/pexels-taryn-elliott-9716834.jpg); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+.footer{
+    background-color: black;
+    height: 50px;
+    color: white;
+}
+
+.footer h5{
+    text-align: center;
+}
